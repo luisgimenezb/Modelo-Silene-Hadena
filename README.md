@@ -1,2 +1,2 @@
 # Modelo-Silene-Hadena
-Modelo para explicar el sistema Silene-Hedena
+Modelo para explicar el sistema Silene-Hadena
